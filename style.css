@@ -15,7 +15,7 @@
   margin-left: 100px;
 }
 .imagesch{
-  height: 3000px !important;
+  height: 10000px !important;
   width: 1000px !important;
   margin-left: 100px;
 }
@@ -505,7 +505,7 @@ body.nav-expanded .offwrap {
 }
 
 .rs-call-us .image-part img {
-  max-height: 585px;
+  max-height: 785px;
 }
 
 .text-right {
@@ -4547,7 +4547,7 @@ body .search-modal .close:hover {
 }
 
 .rs-banner.style2 {
-  background: url(assets/images/banner/style4/banner-b1.png);
+  background: url(assets/images/banner/Clouzy\ Banner1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left top;
@@ -4698,7 +4698,10 @@ body .search-modal .close:hover {
 }
 
 .rs-banner.style3.modify2 .banner-img img {
-  max-width: 850px;
+  max-width: 1920px;
+  max-height: 1080px;
+  background-size: cover;
+
 }
 
 .rs-banner.style3.modify2 .rs-animation {
@@ -5261,28 +5264,28 @@ ul#menu12 li {
 .rs-slider.style1 .slider-content .slider-btn li:last-child {
   margin-right: 0;
 }
-
-.rs-slider.style1 .slider-content.slide1 {
+ .rs-slider.style1 .slider-content.slide1 {
   background: url(assets/images/banner/Clouzy\ Banner1.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   padding: 260px 0 270px;
-}
+} 
 
 .rs-slider.style1 .slider-content.slide2 {
-  background: url(assets/images/banner/banner2.jpg);
+  background: url(assets/images/banner/cloudb1.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  /* padding: 260px 0 270px; */
 }
 
 .rs-slider.style1 .owl-nav .owl-next,
 .rs-slider.style1 .owl-nav .owl-prev {
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
-  left: 30px;
+  /* transform: translateY(-50%);
+  left: 30px; */
   width: 60px;
   height: 60px;
   line-height: 60px;
@@ -5290,8 +5293,8 @@ ul#menu12 li {
   background: #ffffff;
   text-align: center;
   color: #101010;
-  transition: all 0.5s;
-  transition-delay: 0.70s;
+  /* transition: all 0.5s;
+  transition-delay: 0.70s; */
   opacity: 0;
   visibility: hidden;
 }

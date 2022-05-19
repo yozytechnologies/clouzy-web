@@ -337,7 +337,7 @@
         display: none;
     }
     .rs-banner.style3.modify2 .banner-img img {
-        max-width: 450px;
+        /* max-width: 450px; */
     }
     .rs-case-studies-single .services-add,
     .rs-process.style3 .rs-addon-number{
